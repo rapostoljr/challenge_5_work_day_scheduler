@@ -6,7 +6,7 @@ Are you unorganized? Do you have a lot of things planned during your work day, b
 ## HOW TO USE
 To use this work day scheduler, all you need to do is click inside of the box of your desired hour. Then just enter what projects your have planned for that hour. Once you have entered what you have prepared for, you would then click the save button on the right for that specified hour. This planner will keep track of the current hour. If the planned hour has passed from the current hour, it will be marked gray. If it is currently on that hour, it will be marked red and if the planned hour has not passed yet, it will be marked green. Here is an example below:
 
-![alt text](./assets/images/workday_scheduler.jpg)
+![alt text](./Assets/images/workday_scheduler.jpg)
 
 ## ACCEPTANCE CRITERIA
 GIVEN I am using a daily planner to create a schedule\
