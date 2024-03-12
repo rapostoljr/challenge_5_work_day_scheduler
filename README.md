@@ -23,7 +23,7 @@ THEN the text for that event is saved in local storage\
 WHEN I refresh the page\
 THEN the saved events persist
 
-## VIEWING MY PORTFOLIO
+## VIEWING MY PROJECT
 To view live page, open your browser (preferably Google Chrome), then enter <i>https://rapostoljr.github.io/challenge_5_work_day_scheduler/</i> in your address bar.
 
 Link to Deployed Application: <i>https://github.com/rapostoljr/challenge_5_work_day_scheduler.git</i>
